@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.base.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.controls.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.fxml.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.graphics.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.media.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.swing.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx.web.jar",
+			"c:\\Users\\Cédric\\OneDrive\\Documents\\javap1\\lib\\lib\\javafx-swt.jar"
+		]
+	}
+}

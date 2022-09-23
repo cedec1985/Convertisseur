@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Cercle",
+            "request": "launch",
+            "mainClass": "Cercle",
+            "projectName": "javaprojet_f8348835"
+        },
+        {
+            "type": "java",
+            "name": "Launch Compterdescercles",
+            "request": "launch",
+            "mainClass": "Compterdescercles",
+            "projectName": "javaprojet_f8348835"
+        },
+        {
+            "type": "java",
+            "name": "Launch fenetre",
+            "request": "launch",
+            "mainClass": "fenetre",
+            "projectName": "javaprojet_f8348835"
+        },
+        {
+            "type": "java",
+            "name": "Launch euroconvertisseur",
+            "request": "launch",
+            "mainClass": "euroconvertisseur",
+            "projectName": "javaprojet_f8348835"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convert",
+            "request": "launch",
+            "mainClass": "Convert",
+            "projectName": "javaprojet_f8348835"
+        },
+        {
+            "type": "java",
+            "name": "Launch euroconvertisseur",
+            "request": "launch",
+            "mainClass": "euroconvertisseur",
+            "projectName": "javap1_c9cf07e3",
+            "vmArgs": "--module-path C:\\Program Files\\Java\\jdk1.8.0_202\\bin\\ --add-module javafxcontrols javafx.fxml javafx.graphics javafx.swing javafx.media javafx.swt javafx.base"
+        }
+    ]
+}
