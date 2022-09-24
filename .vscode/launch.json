@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch appMain",
+            "request": "launch",
+            "mainClass": "appMain",
+            "projectName": "javaprojet_f8348835"
+        },
+        {
+            "type": "java",
             "name": "Launch Cercle",
             "request": "launch",
             "mainClass": "Cercle",
