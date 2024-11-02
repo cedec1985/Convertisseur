@@ -3,15 +3,6 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.ResourceBundle;
 
-/**
- * <p>Title: Convertisseur Euro</p>
- * <p>Description: </p>
- * <p>Copyright: Copyright (c) 2001</p>
- * <p>Company: </p>
- * @author Julien Saligot
- * @version 1.0
- */
-
 public class Convert {
   static ResourceBundle res = ResourceBundle.getBundle("Res");
   static Fenetre fen;
@@ -36,7 +27,7 @@ class Fenetre
     getContentPane().add(PC);
     getContentPane().add(PB);
 
-    /*Pour centrer la fenêtre dans l'environnement*/
+    /*Pour centrer la fenÃªtre dans l'environnement*/
     Toolkit tk = Toolkit.getDefaultToolkit();
     Dimension frameSize = this.getSize();
     Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
@@ -105,7 +96,7 @@ class PanC
           resultat.setText(res.getString("Monnaie_"));
         }
         else if (choixListe == 1) {
-          /*Si on choisit de convertir en €*/
+          /*Si on choisit de convertir en â‚¬*/
           monnaie.setText(res.getString("Euro"));
           try {
             /*On convertit le chiffre saisie*/
